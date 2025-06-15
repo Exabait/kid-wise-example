@@ -2,6 +2,13 @@
 
 A minimal Next.js app to help parents explain words/concepts to young children (ages 3–7) using AI.
 
+## Project goals
+
+- Implement serverless solution. Here, I use Supabase for auth, db and storage
+- Try to implement API of any LLM model. For generate word’s explanation I use OpenAI API
+- Develop Next.js app with layered structure.
+- Complete this project. Ready is more important than perfect
+
 ## Features
 
 - Simple explanations, examples of usage, and game ideas for any word
